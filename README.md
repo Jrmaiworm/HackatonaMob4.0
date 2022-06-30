@@ -8,7 +8,7 @@ o dispositivo móvel do usuário passa os parametros de localização automatica
 https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1779306/2000
 
 <p align="center">
-  <img height="200px" src="assets/avaliacoes.jpeg" alt="avaliacao"/>
+  <img src="assets/avaliacoes.jpeg" alt="avaliacao"/>
 </p>
 
 
