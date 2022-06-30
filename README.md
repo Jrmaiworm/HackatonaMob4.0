@@ -18,5 +18,5 @@ O aplicativo visa facilitar o input dos dados pelo usuário, podemos inputar os 
 
 
 <p align="center">
-  <img src="calçadas.jpeg" alt="calçadas"/>
+  <img width="250px" src="calçadas.jpeg" alt="calçadas"/>
 </p>
