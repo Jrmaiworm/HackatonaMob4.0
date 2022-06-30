@@ -26,7 +26,7 @@ São gerados no mapa marcadores com as avaliações e as informaçoe das calçad
 através do cálculo de um índice que mede a qualidade da acessibilidade oferecida. Esse índice, denominado IA – Índice de Acessibilidade, é calculado pela equação
 1.
 <p align="center">
-  <img width="250px" src="equacao.png" alt="equacao"/>
+  <img  src="equacao.png" alt="equacao"/>
 </p>
 
 
