@@ -20,3 +20,11 @@ O aplicativo visa facilitar o input dos dados pelo usuário, podemos inputar os 
 <p align="center">
   <img width="250px" src="calçadas.jpeg" alt="calçadas"/>
 </p>
+
+
+São gerados no mapa marcadores com as avaliações e as informaçoe das calçadas, o usuário poderá selecionar um destino e o aplicativo indicará se a rota é acessivel 
+através do cálculo de um índice que mede a qualidade da acessibilidade oferecida. Esse índice, denominado IA – Índice de Acessibilidade, é calculado pela equação
+1.
+
+onde:
+ali, coni, mati, lai, representam, respectivamente, a pontuação obtida pelo trecho i da calçada na avaliação técnica dos aspectos de alinhamento do greide, estado de conservação do pavimento, tipo de material usado e largura efetiva ad representa a pontuação obtida na avaliação técnica da adequação da travessia. 
