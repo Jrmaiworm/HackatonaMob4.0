@@ -16,7 +16,7 @@ https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1
 
 <br>
 </br>
-A avaliação de calçadas poderá ser agregrado a outros aplicativos já existentes, como o caso do app BiomobPlus que já avalia locais de acessibilidade.
+A avaliação de calçadas poderá ser incorporado a outros aplicativos já existentes, como o caso do app BiomobPlus que já avalia locais de acessibilidade.
 O aplicativo visa facilitar o input dos dados pelo usuário, podemos incluir os dados atravéz do formulário no app, receber tabelas de arquivos excel, csv.., fazer mapeamento por imagem, usando o próprio dispositivo móvel, drones, cameras...
 <br>
 </br>
