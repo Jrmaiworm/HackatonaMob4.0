@@ -30,7 +30,12 @@ através do cálculo de um índice que mede a qualidade da acessibilidade oferec
 </p>
 onde:
 ali, coni, mati, lai, representam, respectivamente, a pontuação obtida pelo trecho i da calçada na avaliação técnica dos aspectos de alinhamento do greide, estado de conservação do pavimento, tipo de material usado e largura efetiva ad representa a pontuação obtida na avaliação técnica da adequação da travessia. 
-
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 
 <p align="center">
   <img margin="50px" src="mapa.png" alt="avaliacao"/>
