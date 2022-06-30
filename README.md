@@ -32,5 +32,5 @@ onde:
 ali, coni, mati, lai, representam, respectivamente, a pontuação obtida pelo trecho i da calçada na avaliação técnica dos aspectos de alinhamento do greide, estado de conservação do pavimento, tipo de material usado e largura efetiva ad representa a pontuação obtida na avaliação técnica da adequação da travessia. 
 
 <p align="center">
-  <img width="250px" src="mapa.png" alt="avaliacao"/>
+  <img  src="mapa.png" alt="avaliacao"/>
 </>
