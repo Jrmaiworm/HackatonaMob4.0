@@ -7,7 +7,7 @@ Desenvolvemos uma api que cruza as informações do nosso banco de dados  com a 
 Link da api com exemplo de alguns filtros:
 https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1779306/2000
 
-<span align="start">
+<span align="center">
   <img src="calçadas.jpeg" alt="calçadas"/>
 </span>
 
