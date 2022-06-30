@@ -3,7 +3,7 @@ Projeto Rotas acessiveis com mapeamento de calçadas Hackatona Mob 4.0 2022
 
 Como funciona:
 
-Desenvolvemos uma api que cruza as informações do nosso banco de dados  com a api do googlemaps "https://maps.googleapis.com/maps/api" e verifica se o local já foi avaliado, o dispositivo móvel do usuário passa os parametros de localização automaticamente, o google retorna o dados do local, onde acrescentamos nossas avaliações e e salvamos novamente no banco.
+Desenvolvemos uma api que cruza as informações do nosso banco de dados  com a api do googlemaps "https://maps.googleapis.com/maps/api" e verifica se o local já foi avaliado, o dispositivo móvel do usuário passa os parametros de localização automaticamente, o google retorna o dados do local, onde acrescentamos nossas avaliações e salvamos novamente no banco.
 Link da api com exemplo de alguns filtros:
 https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1779306/2000
 
