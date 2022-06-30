@@ -17,5 +17,5 @@ Facilitar o input dos dados pelo usuário é oque buscamos atravéz do uso da te
 
 
 <p align="center">
-  <img src="assets/calçadas.jpeg" alt="calçadas"/>
+  <img src="calçadas.jpeg" alt="calçadas"/>
 </p>
