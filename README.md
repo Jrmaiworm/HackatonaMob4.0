@@ -8,11 +8,11 @@ Link da api com exemplo de alguns filtros:
 https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1779306/2000
 
 <span align="center">
-  <img src="calçadas.jpeg" alt="calçadas"/>
+  <img heigth="250px" src="calçadas.jpeg" alt="calçadas"/>
 </span>
 
 <span align="center">
-  <img src="assets/avaliacoes.jpeg" alt="avaliacao"/>
+  <img heigth="250px" src="assets/avaliacoes.jpeg" alt="avaliacao"/>
 </span>
 
 
