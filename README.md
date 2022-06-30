@@ -13,7 +13,7 @@ https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1
 
 
 A avaliação de calçadas poderá ser agregrado a outros aplicativos já existentes, como o caso do app BiomobPlus que já avalia locais de acessibilidade.
-Facilitar o input dos dados pelo usuário é oque buscamos atravéz do uso da tecnologia , temos o envio atravéz do formulário no app, podemos receber inputs por arquivos excel, csv.., mapeamento por imagem, usando o próprio dispositivo móvel, drones, cameras...
+O aplicativo visa facilitar o input dos dados pelo usuário, podemos inputar os dados atravéz do formulário no app, receber tabelas de arquivos excel, csv.., fazer mapeamento por imagem, usando o próprio dispositivo móvel, drones, cameras...
 
 
 <p align="center">
