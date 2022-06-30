@@ -7,13 +7,13 @@ Desenvolvemos uma api que cruza as informações do nosso banco de dados  com a 
 Link da api com exemplo de alguns filtros:
 https://apibioplus.herokuapp.com/biomob-api/places/supermarket/-22.5112498/-43.1779306/2000
 
-<p align="start">
+<span align="start">
   <img src="calçadas.jpeg" alt="calçadas"/>
-</p>
+</span>
 
-<p align="center">
+<span align="center">
   <img src="assets/avaliacoes.jpeg" alt="avaliacao"/>
-</p>
+</span>
 
 
 A avaliação de calçadas poderá ser agregrado a outros aplicativos já existentes, como o caso do app BiomobPlus que já avalia locais de acessibilidade.
